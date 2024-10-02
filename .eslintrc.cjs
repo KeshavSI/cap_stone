@@ -14,5 +14,4 @@ module.exports = {
     "react-refresh/only-export-components": "warn",
     "quotes": [2, "double", { "avoidEscape": true }],
     "semi": [2, "always"],
-  },
-};
+  },};
